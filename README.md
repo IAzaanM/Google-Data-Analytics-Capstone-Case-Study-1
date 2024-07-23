@@ -330,7 +330,7 @@ o	Dynamic Pricing: Explore the possibility of implementing dynamic pricing based
 
 o	Subscription Options: Introduce different membership tiers to cater to different usage patterns, such as a basic commuter plan for weekdays and a premium plan for weekend and leisure riders.
 
-__4.Data-Driven Decision Making:__
+__4. Data-Driven Decision Making:__
 
 o	Continue Tracking: Continuously monitor the usage patterns of both casual riders and members to identify emerging trends and adjust marketing strategies accordingly.
 
