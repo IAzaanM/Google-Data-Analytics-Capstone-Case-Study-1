@@ -2,7 +2,7 @@
 
 This project is part of Google Data Analytics Capstone: Complete a Case Study course. Out of the 3 available case study options, I chose case study 1. In this case study, I will be performing data analysis for a fictional bike-share company in order to help them attract more riders. Along the way, I’ll perform typical tasks of a junior data analyst while following the steps of the data analysis process: __Ask, Prepare, Process, Analyze, Share, and Act__.
 
-# Ny Task
+# My Task
 I am a junior data analyst at Cyclistic, a bike-share company in Chicago. My manager, Lily Moreno (the director of marketing), believes that the company should focus on converting casual riders into annual members. To achieve this, my team needs to analyze how both types of riders use the bikes and present data-driven recommendations to the company executives.
 
 # Ask
