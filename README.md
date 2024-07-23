@@ -341,6 +341,6 @@ End of project.
 
 # References for ideas
 
-- Assyifaziza's work was great for reference who unlike me, used tableau to create great visualizations and dashboard. Check out Assyifaziza work [here](https://github.com/Assyifaziza/RStudio-Google-Data-Analytic-Study-Case-1/tree/main)
+- Assyifa Aziza's work was great for reference who unlike me, used tableau to create an amazing dashboard. Check out Assyifa Aziza's work [here](https://github.com/Assyifaziza/RStudio-Google-Data-Analytic-Study-Case-1/tree/main)
 
 - Shumail Sajjad's work gave a lot of ideas as well because he did his work entirely in R. Check out Shumail Sajjad's work [here](https://rpubs.com/Shumail/1049889)
