@@ -20,7 +20,7 @@ __ORIGINALITY:__ The data originates directly from the primary source.
 
 __COMPREHENSIVENESS:__ The dataset provides extensive information on ridership, excluding any personally identifiable details due to privacy issues.
 
-__CURRENT:__ The dataset is up-to-date and refreshed monthly with the latest data.
+__CURRENT:__ The datasets listed are up-to-date and updated monthly with newer datasets.
 
 __CITED:__ The data has been made available by Motivate International Inc. under this [licence](https://divvybikes.com/data-license-agreement)
 
