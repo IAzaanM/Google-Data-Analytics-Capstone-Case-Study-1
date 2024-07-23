@@ -312,9 +312,9 @@ __Recommendation for Cyclistic Marketing Strategy__
 
 __1. Targeted Marketing for Casual Riders:__
    
--	Weekend Promotions: Since casual riders predominantly use bikes on weekends, offer special weekend rates or package deals to entice them to become members.
+-	Weekend Promotions: Since casual riders mostly use bikes on weekends, it would be a good idea to offer special weekend rates or deals to entice them to become members.
 
--	Tourist-Focused Packages: Develop special passes or discounts for tourists who frequent the popular routes identified in the analysis.
+-	Tourist-Focused Packages: Discounts for tourists who frequent the popular routes identified in the analysis.
 
 -	Membership Conversion Campaigns: Create targeted marketing campaigns aimed at converting casual riders into members by highlighting the benefits of membership (e.g., discounted rates for longer rides, access to special events, etc.).
 
@@ -334,9 +334,9 @@ __3. Optimize Pricing Strategies:__
 
 __4. Data-Driven Decision Making:__
 
--	Continue Tracking: Continuously monitor the usage patterns of both casual riders and members to identify emerging trends and adjust marketing strategies accordingly.
+-	Continue Tracking: Continuously monitor the usage patterns of both casual riders and members to identify new trends and adjust marketing strategies accordingly.
 
--	Conduct Surveys: Gather feedback from both casual riders and members to understand their motivations, preferences, and pain points, and use this information to inform future initiatives.
+-	Conduct Surveys: Get feedback from both casual riders and members to understand their preferences and use this information to inform future initiatives.
 
 End of project.
 
