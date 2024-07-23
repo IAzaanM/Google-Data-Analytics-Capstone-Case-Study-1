@@ -118,6 +118,7 @@ This is the end my cleaning process and started the analysis. Also note that at 
 2 member        5    
 ```
 
+
 __Overall__:
 
 These findings paint a picture of two distinct user groups:
@@ -129,6 +130,7 @@ Members: More likely to take shorter, more frequent rides, primarily on weekdays
 Next, I move on to visualization for a deeper analysis of the data.
 
 Outliers were removed to make visualization easier. ride_length column was converted to seconds and I also split started_at and ended_at into 2 separate columns each - to show start date, end date, start time and end time in their own columns. Start times and end times in these new columns are in also seconds in order to make calculations and some visualizations easier. With the removal of outliers, a new dataframe was also created which I named trips_merged3.
+
 
 
 __1. Boxplot that shows ride length distribution between each member type__
