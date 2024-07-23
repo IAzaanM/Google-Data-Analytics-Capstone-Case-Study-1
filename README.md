@@ -12,7 +12,8 @@ I am a junior data analyst at Cyclistic, a bike-share company in Chicago. My man
 
 # Prepare
 I downloaded [Cyclistic’s historical trip data](https://divvy-tripdata.s3.amazonaws.com/index.html) to analyze and identify trends. In my case, the data from June 2023 to May 2024. I renamed each file to be shorter and easier to identify.
-Does your data __ROCCC__? I will be using the __ROCCC__ system to see if there are issues with bias or credibility in this data.
+
+Does my data __ROCCC__? I will be using the __ROCCC__ system to see if there are issues with bias or credibility in this data.
 
 __RELIABLITY:__ The dataset, comprising over 5 million annual records, offers a high degree of reliability.
 
@@ -141,15 +142,15 @@ __1. Boxplot that shows ride length distribution between each member type__
 
 ```R
    ggplot(trips_merged3, aes(x = ride_length)) +
-    geom_histogram(binwidth = 300) +  # Adjust binwidth for desired granularity
-    facet_wrap(~member_casual, ncol = 1) +  # Separate plots for each member type
+    geom_histogram(binwidth = 300) +  
+    facet_wrap(~member_casual, ncol = 1) +  
     labs(title = "Distribution of Ride Lengths by User Type",
          x = "Ride Length", 
          y = "Number of Rides") +
     theme_minimal()
 
 ggplot(trips_merged3, aes(x = ride_length, fill = member_casual)) +
-    geom_density(alpha = 0.5) +  # Adjust alpha for transparency
+    geom_density(alpha = 0.5) +  
     labs(title = "Density Plot of Ride Lengths by User Type",
          x = "Ride Length", 
          y = "Density") +
