@@ -341,7 +341,7 @@ __4. Data-Driven Decision Making:__
 End of project.
 
 
-# References for ideas
+# References
 
 - Assyifa Aziza's work was great for reference who unlike me, used tableau to create an amazing dashboard. Check out Assyifa Aziza's work [here](https://github.com/Assyifaziza/RStudio-Google-Data-Analytic-Study-Case-1/tree/main)
 
