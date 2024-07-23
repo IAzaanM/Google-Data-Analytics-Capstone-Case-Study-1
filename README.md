@@ -49,7 +49,7 @@ Aug23 <- read_csv("filepath here")
 ```
 and so on for the remaining 9 files.
 
-Then everything was merged into 1 dataframe, which I name __trips_merged__.
+Then everything was merged into 1 dataframe, which I named __trips_merged__.
 
 ```R
 trips_merged <- bind_rows(Jun23, Jul23, Aug23, Sep23, Oct23, Nov23, Dec23, Jan24, Feb24, Mar24, Apr24, May24)
