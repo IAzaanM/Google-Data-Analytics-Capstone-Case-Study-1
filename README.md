@@ -310,31 +310,31 @@ __Recommendation for Cyclistic Marketing Strategy__
 
 __1. Targeted Marketing for Casual Riders:__
    
-o	Weekend Promotions: Since casual riders predominantly use bikes on weekends, offer special weekend rates or package deals to entice them to become members.
+-	Weekend Promotions: Since casual riders predominantly use bikes on weekends, offer special weekend rates or package deals to entice them to become members.
 
-o	Tourist-Focused Packages: Develop special passes or discounts for tourists who frequent the popular routes identified in the analysis.
+-	Tourist-Focused Packages: Develop special passes or discounts for tourists who frequent the popular routes identified in the analysis.
 
-o	Membership Conversion Campaigns: Create targeted marketing campaigns aimed at converting casual riders into members by highlighting the benefits of membership (e.g., discounted rates for longer rides, access to special events, etc.).
+-	Membership Conversion Campaigns: Create targeted marketing campaigns aimed at converting casual riders into members by highlighting the benefits of membership (e.g., discounted rates for longer rides, access to special events, etc.).
 
 __2. Enhance Member Engagement:__
 
-o	Morning Commute Incentives: As members primarily use bikes during the morning commute, offer early bird discounts or loyalty rewards for frequent morning rides to further incentivize their usage.
+-	Morning Commute Incentives: As members primarily use bikes during the morning commute, offer early bird discounts or loyalty rewards for frequent morning rides to further incentivize their usage.
 
-o	Weekday Deals: Introduce weekday promotions or discounts for members to encourage more consistent usage throughout the week.
+-	Weekday Deals: Introduce weekday promotions or discounts for members to encourage more consistent usage throughout the week.
 
-o	Expand Station Network: Consider expanding the network of bike stations to cater to the wider range of trips taken by members, particularly in areas with high commuter traffic.
+-	Expand Station Network: Consider expanding the network of bike stations to cater to the wider range of trips taken by members, particularly in areas with high commuter traffic.
 
 __3. Optimize Pricing Strategies:__
    
-o	Dynamic Pricing: Explore the possibility of implementing dynamic pricing based on demand. This could involve higher rates for popular routes during peak tourist season and discounted rates for members during off-peak hours.
+- Dynamic Pricing: Explore the possibility of implementing dynamic pricing based on demand. This could involve higher rates for popular routes during peak tourist season and discounted rates for members during off-peak hours.
 
-o	Subscription Options: Introduce different membership tiers to cater to different usage patterns, such as a basic commuter plan for weekdays and a premium plan for weekend and leisure riders.
+- Subscription Options: Introduce different membership tiers to cater to different usage patterns, such as a basic commuter plan for weekdays and a premium plan for weekend and leisure riders.
 
 __4. Data-Driven Decision Making:__
 
-o	Continue Tracking: Continuously monitor the usage patterns of both casual riders and members to identify emerging trends and adjust marketing strategies accordingly.
+-	Continue Tracking: Continuously monitor the usage patterns of both casual riders and members to identify emerging trends and adjust marketing strategies accordingly.
 
-o	Conduct Surveys: Gather feedback from both casual riders and members to understand their motivations, preferences, and pain points, and use this information to inform future initiatives.
+-	Conduct Surveys: Gather feedback from both casual riders and members to understand their motivations, preferences, and pain points, and use this information to inform future initiatives.
 
 End of project.
 
