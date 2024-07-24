@@ -3,7 +3,7 @@
 This project is part of Google Data Analytics Capstone: Complete a Case Study course. Out of the 3 available case study options, I chose case study 1. In this case study, I will be performing data analysis for a fictional bike-share company in order to help them attract more riders. Along the way, I’ll perform typical tasks of a junior data analyst while following the steps of the data analysis process: __Ask, Prepare, Process, Analyze, Share, and Act__.
 
 # The Scenario and My Task
-I am a junior data analyst at Cyclistic, a bike-share company in Chicago. My manager, Lily Moreno (the director of marketing), believes that the company should focus on converting casual riders into annual members. To achieve this, my team needs to analyze how both types of riders use the bikes and present data-driven recommendations to the company executives.
+In this scenario, am a junior data analyst at Cyclistic, a bike-share company in Chicago. My manager, Lily Moreno (the director of marketing), believes that the company should focus on converting casual riders into annual members. To achieve this, my team needs to analyze how both types of riders use the bikes and present data-driven recommendations to the company executives.
 
 # Ask
 1. How do annual members and casual riders use Cyclistic bikes differently?
@@ -15,15 +15,20 @@ I downloaded [Cyclistic’s historical trip data](https://divvy-tripdata.s3.amaz
 
 Does my data __ROCCC__? I will be using the __ROCCC__ system to see if there are issues with bias or credibility in this data.
 
-__RELIABLITY:__ The dataset, comprising over 5 million annual records, offers a high degree of reliability.
+__RELIABLITY:__ 
+The dataset, comprising over 5 million annual records, offers a high degree of reliability.
 
-__ORIGINALITY:__ The data originates directly from the primary source.
+__ORIGINALITY:__ 
+The data originates directly from the primary source.
 
-__COMPREHENSIVENESS:__ The dataset provides extensive information on ridership, excluding any personally identifiable details due to privacy issues.
+__COMPREHENSIVENESS:__ 
+The dataset provides extensive information on ridership, excluding any personally identifiable details due to privacy issues.
 
-__CURRENT:__ The datasets listed are up-to-date and updated monthly with newer datasets.
+__CURRENT:__ 
+The datasets listed are up-to-date and updated monthly with newer datasets.
 
-__CITED:__ The data has been made available by Motivate International Inc. under this [licence](https://divvybikes.com/data-license-agreement)
+__CITED:__ 
+The data has been made available by Motivate International Inc. under this [licence](https://divvybikes.com/data-license-agreement)
 
 # Process
 I did the first part of my process phase in Excel. I added a column named ride_length where the values were calculated by subtracting started_at values from ended_at values. day_of_week column was also added where the values are shown as a number with no decimals, noting that 1 = Sunday and 7 = Saturday. This was done in all 12 datasets.
@@ -39,7 +44,6 @@ install.packages('janitor')
 install.packages("skimr")
 install.packages("dplyr")
 install.packages("lubridate")
-install.packages("ggpubr")
 ```
 
 I then imported the 12 datasets.
